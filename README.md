@@ -57,7 +57,4 @@ The Weather ETL Pipeline is designed to automate the extraction, transformation,
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-### **Acknowledgments**
-- Apache Airflow
-- Open Meteo API
 
